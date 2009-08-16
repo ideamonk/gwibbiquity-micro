@@ -29,10 +29,10 @@ Gwibbiquity-micro for Gwibber
 
       .message {
 	      /*border: 1px solid rgba(42, 42, 42, 1.0);*/
-        padding-top: 3px;
-      	padding-buttom: 5px;
-      	padding-left: 3px;
-      	padding-righ: 3px;
+        padding-top: 5px;
+      	padding-buttom: 10px;
+      	padding-left: 5px;
+      	padding-righ: 5px;
         /*margin:3px;*/
         border-bottom:#cdcdcd solid 1px;
         /*text-shadow: 1px 1px black;*/
